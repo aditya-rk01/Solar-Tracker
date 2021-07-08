@@ -3,7 +3,7 @@ Copyright (C) 2020 by Aditya R, Institute of Technology, Nirma University.
 
 Study of solar tracker and its implementation on small scale
 
-Principle
+Principle:
 
 Due to the continuous revolution of earth the sun does not face towards the solar panel always. As we have to maximize the use of the resources, the energy panel should face the sun at least, till it is present in the daytime.
 
@@ -23,7 +23,7 @@ Components required:
 
 ![image](https://user-images.githubusercontent.com/68019168/124968203-f5b9f400-e042-11eb-8bcf-3737d1b52f86.png)
 
-Working
+Working:
 
       •	This project uses 2 LDRs and 1 motor to create a single axis solar tracker. For dual axis solar tracker 4 LDRs and 2 motors have to be used
       •	The LDR sends value to the Arduino and depending upon the values and already set algorithm the motor rotates in the required direction.
